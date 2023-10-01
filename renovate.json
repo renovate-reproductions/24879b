@@ -4,5 +4,6 @@
     "config:base",
     ":disableDependencyDashboard"
   ],
-  "rangeStrategy": "update-lockfile"
+  "rangeStrategy": "update-lockfile",
+  "includeForks": true
 }
